@@ -1,0 +1,11 @@
+Portions of this code are based on the Hazel Game Engine being developed by The Cherno. My thanks to him for the
+"Game Engine Series" he has produced. The public repo of Hazel can be found here: https://github.com/TheCherno/Hazel and
+The Cherno's youtube is here: https://www.youtube.com/c/TheChernoProject/
+
+Libraries:
+
+spdlog: https://github.com/gabime/spdlog
+Use this. It's fast. It's simple. Just use it.
+
+GLFW: https://www.glfw.org
+Closest thing to a multiplatform windowing library available. OpenGL & Vulkan integration is nice.
